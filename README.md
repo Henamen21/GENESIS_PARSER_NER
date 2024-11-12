@@ -1,4 +1,4 @@
-# NER FOR GENESIS
+# NAMED ENTITY RECOMMENDATION (NER) FOR GENESIS BOOK
 
 Extract Information from the book of genesis using Named Entity Recognition. The annotation is done by using [doccano](https://github.com/doccano/doccano) annotation.
 
