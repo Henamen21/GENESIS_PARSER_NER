@@ -56,3 +56,11 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Connect With
+
+[medium blog](https://medium.com/@heneyr24/named-entity-recognition-for-the-book-of-genesis-d08ae157a385)
+
+[linkedin](www.linkedin.com/in/henok-solomon-a9070329a)
+
+[EMAIL](mailto:hencoktok@gmail.com)
